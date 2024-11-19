@@ -1,0 +1,4 @@
+2024-11-17 15:44:10,620 - my_logger - ERROR - This is an error message
+2024-11-17 15:44:10,620 - my_logger - CRITICAL - This is a critical message
+2024-11-17 15:45:18,388 - my_logger - ERROR - This is error
+2024-11-17 15:45:30,455 - my_logger - CRITICAL - this is critical
